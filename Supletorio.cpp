@@ -31,7 +31,7 @@ int main()
 	}
 	cout << "\nLa suma de los articulos es: "<<suma;
 	
-	iva=suma*0.12;
+	iva=suma*0.12;//
 	cout << "\nEl IVA es: "<<iva;
 	
 	subt=suma+iva;
