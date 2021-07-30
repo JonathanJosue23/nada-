@@ -1,2 +1,0 @@
-# supletorio
-nombre del autor
